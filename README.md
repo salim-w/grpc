@@ -1,4 +1,4 @@
-GRPC2 - Service de gestion de comptes bancaires
+GRPC2 - Service de gestion de comptes bancaires:
 GRPC2 est une application développée avec gRPC et Spring Boot, offrant des services pour la gestion des comptes bancaires. Elle utilise une base de données H2 en mémoire et des stubs générés à partir de fichiers Protobuf.
 
 Fonctionnalités
